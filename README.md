@@ -37,7 +37,7 @@ This project focuses on learning and implementing modern web development practic
 
 Follow these steps to run the project locally.
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/snap-link.git
 cd snap-link
@@ -51,8 +51,9 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
 
-```Run the server side with:
+Run the server side with:
 
+```
 nodemon app.js
 ```
 Frontend Setup
