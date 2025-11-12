@@ -1,4 +1,4 @@
-# 📸 Snap-Link
+#  Snap-Link
 
 Snap-Link is a full-stack **social media web application** built using the **MERN stack**.  
 It allows users to **create posts, like photos, and comment on posts** — simulating a minimal social media experience.  
@@ -6,16 +6,16 @@ This project focuses on learning and implementing modern web development practic
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🧑‍🤝‍🧑 User authentication (Register / Login)
-- 🖼️ Create, view, and delete posts with images
-- ❤️ Like and unlike posts
-- 💬 Add and view comments on posts
-- 🧾 Dynamic feed of all user posts
-- ⚡ RESTful API built with Express and MongoDB
-- 🧱 Fully modular code with clean folder structure
-- 🎨 Responsive UI built using React
+-  User authentication (Register / Login)
+-  Create, view, and delete posts with images
+-  Like and unlike posts
+-  Add and view comments on posts
+-  Dynamic feed of all user posts
+-  RESTful API built with Express and MongoDB
+-  Fully modular code with clean folder structure
+-  Responsive UI built using React
 
 ---
 
@@ -28,30 +28,10 @@ This project focuses on learning and implementing modern web development practic
 | **Database** | MongoDB, Mongoose |
 | **Authentication** | JWT (JSON Web Token) |
 | **State Management** | React Hooks / Context API |
-| **Styling** | CSS / Tailwind (if used) |
+| **Styling** | CSS  |
 
 ---
 
-## 📂 Project Structure
-
-snap-link/
-├── backend/
-│ ├── config/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── context/
-│ │ └── App.js
-│ └── package.json
-│
-└── README.md
----
 
 ## ⚙️ Installation and Setup
 
@@ -88,9 +68,9 @@ The React app will start on http://localhost:3000
 and the backend will run on http://localhost:5000.
 
 ```
-🧑‍💻 Contributing
+ Contributing
 
-Contributions are welcome! 🎉
+Contributions are welcome! 
 Follow the steps below to contribute to Snap-Link:
 
 Fork the repository
