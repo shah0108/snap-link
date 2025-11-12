@@ -67,7 +67,7 @@ npm start
 The React app will start on http://localhost:3000
 and the backend will run on http://localhost:5000.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! 
 Follow the steps below to contribute to Snap-Link:
