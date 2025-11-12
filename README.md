@@ -44,31 +44,30 @@ cd snap-link
 
 cd server
 npm install
-
+```
 Create a .env file inside the backend/ directory and add:
 
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 PORT=5000
 
-Run the server side with:
+```Run the server side with:
 
 nodemon app.js
-
+```
 Frontend Setup
 
 Open a new terminal window:
-
+```
 cd client
 npm install
 npm start
-
+```
 
 The React app will start on http://localhost:3000
 and the backend will run on http://localhost:5000.
 
-```
- Contributing
+Contributing
 
 Contributions are welcome! 
 Follow the steps below to contribute to Snap-Link:
